@@ -1,0 +1,20 @@
+{
+  "name": "longlon",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Minhminh1 <doanthanhminhcnsg@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/minhdayroi/longlon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
